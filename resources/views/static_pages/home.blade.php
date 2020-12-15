@@ -6,7 +6,7 @@
     <div class="jumbotron">
         <h1>Hello Laravel</h1>
         <p class="lead">
-            你现在所看到的是<a href="https://laravel-china.org/courses/laravel-essential-tra">
+            你现在所看到的是Lxj的世界
         </p>
         <p>
             一切，将从这里开始。
